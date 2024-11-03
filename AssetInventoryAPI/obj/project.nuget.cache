@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AaApcknZ0uqa9F/0coRtopCEL4e0PdvbFo2VfyiFk3R/oGlDd7HPFnzcpeiLEkljOGLz2RWBl+Om8E/q3E6Fjw==",
+  "dgSpecHash": "odWerv19mW/4Y3YkpRLFKyzzsv0+64XK1nANK2sEEpcrlMotPg7RBjoFKH3vlqC/4ra+MViBN4H/ZmMrrGIi7Q==",
   "success": true,
-  "projectFilePath": "D:\\MEGA\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
+  "projectFilePath": "D:\\MEGAFINANCE\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

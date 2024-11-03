@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MEGA\\AssetInventoryAPI\\AssetInventoryAPI.csproj": {}
+    "D:\\MEGAFINANCE\\AssetInventoryAPI\\AssetInventoryAPI.csproj": {}
   },
   "projects": {
-    "D:\\MEGA\\AssetInventoryAPI\\AssetInventoryAPI.csproj": {
+    "D:\\MEGAFINANCE\\AssetInventoryAPI\\AssetInventoryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MEGA\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
+        "projectUniqueName": "D:\\MEGAFINANCE\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
         "projectName": "AssetInventoryAPI",
-        "projectPath": "D:\\MEGA\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
+        "projectPath": "D:\\MEGAFINANCE\\AssetInventoryAPI\\AssetInventoryAPI.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\MEGA\\AssetInventoryAPI\\obj\\",
+        "outputPath": "D:\\MEGAFINANCE\\AssetInventoryAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

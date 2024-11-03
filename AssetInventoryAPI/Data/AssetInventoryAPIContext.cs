@@ -15,5 +15,7 @@ namespace AssetInventoryAPI.Data
         }
 
         public DbSet<AssetInventoryAPI.Model.UserMaster> UserMaster { get; set; } = default!;
+
+        public DbSet<AssetInventoryAPI.Model.AssetInv> AssetInv { get; set; } = default!;
     }
 }
