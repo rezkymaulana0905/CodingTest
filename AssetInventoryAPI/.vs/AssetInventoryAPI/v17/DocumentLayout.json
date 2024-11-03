@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MEGA\\AssetInventoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|d:\\mega\\assetinventoryapi\\data\\assetinventoryapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|solutionrelative:data\\assetinventoryapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|d:\\mega\\assetinventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|d:\\mega\\assetinventoryapi\\controllers\\usermasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|solutionrelative:controllers\\usermasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|d:\\mega\\assetinventoryapi\\model\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FD39E8-C657-4CD7-8C3F-96F07FF4421A}|AssetInventoryAPI.csproj|solutionrelative:model\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetInventoryAPIContext.cs",
+              "DocumentMoniker": "D:\\MEGA\\AssetInventoryAPI\\Data\\AssetInventoryAPIContext.cs",
+              "RelativeDocumentMoniker": "Data\\AssetInventoryAPIContext.cs",
+              "ToolTip": "D:\\MEGA\\AssetInventoryAPI\\Data\\AssetInventoryAPIContext.cs",
+              "RelativeToolTip": "Data\\AssetInventoryAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:40:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MEGA\\AssetInventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MEGA\\AssetInventoryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T11:26:13.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMastersController.cs",
+              "DocumentMoniker": "D:\\MEGA\\AssetInventoryAPI\\Controllers\\UserMastersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserMastersController.cs",
+              "ToolTip": "D:\\MEGA\\AssetInventoryAPI\\Controllers\\UserMastersController.cs",
+              "RelativeToolTip": "Controllers\\UserMastersController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:25:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "D:\\MEGA\\AssetInventoryAPI\\Model\\UserMaster.cs",
+              "RelativeDocumentMoniker": "Model\\UserMaster.cs",
+              "ToolTip": "D:\\MEGA\\AssetInventoryAPI\\Model\\UserMaster.cs",
+              "RelativeToolTip": "Model\\UserMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:18:25.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
